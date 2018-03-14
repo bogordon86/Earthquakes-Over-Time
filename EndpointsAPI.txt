@@ -1,0 +1,19 @@
+GeoJSON API endpoints:
+Here is the endpoint for the all week data (roughly less than 2000 earthquakes):
+"https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson"
+
+Here is the endpoint for the past day data (less than 200 earthquakes):
+"https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson"
+
+If you really wanted to go big or go home you could use the all month dataset (over 10,000 earthquakes):
+"https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson"
+
+Color Brewer:
+#ffffcc
+#c7e9b4
+#7fcdbb
+#41b6c4
+#2c7fb8
+#253494
+
+https://www.mapbox.com/api-documentation/?language=JavaScript#styles

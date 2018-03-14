@@ -1,0 +1,47 @@
+body {
+  font:"Helvetica Neue", Arial, Helvetica, sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+  background-color:#070707;
+}
+
+h1 {
+  text-align: center;
+  font:"Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+.legend {
+  background: rgb(56, 56, 56);
+  color: white;
+  height: 150%;
+  width: 150%;
+  padding-top: 10%;
+  padding-bottom: 20%;
+  text-align: center;
+}
+.jumbotron {
+  text-align: center;
+  color: #ed8b0b;
+  position: relative;
+  background: #070707;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  overflow: hidden;
+  padding: 5px;
+}
+.footer {
+  color:white;
+}
+footer {
+  color:white;
+}
+a {
+  color: white;
+}
