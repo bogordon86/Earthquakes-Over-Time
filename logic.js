@@ -107,7 +107,7 @@ function renderMap(earthquakesURL, platesURL) {
         // Create map centered on USA and sets up initial layers on load
         var myMap = L.map("map", {
             center: [38.5, -98.0],
-            zoom: 4.5,
+            zoom: 4,
             layers: [light, plates],
             scrollWheelZoom: false
         });
