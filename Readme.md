@@ -1,5 +1,5 @@
 # Earthquakes-Over-Time
-
+https://bogordon86.github.io/Earthquakes-Over-Time/
 ## Background
 
 ![Earthquake-Intro](Images/Earthquake-Intro.png)
@@ -22,3 +22,4 @@ I also created popups that provide additional information about the earthquake w
 To further illustrate the point that earthquakes are occuring all the time, I added a Timeline layer to the map that allows you to either play through all the earthquakes in the past week, or scroll between dates and times to pinpoint earthquakes as they occurred.
 I achieved this using a Leaflet plugin (found at https://github.com/skeate/Leaflet.timeline).
 
+##To view the site click the link: https://bogordon86.github.io/Earthquakes-Over-Time/.  Enjoy!
